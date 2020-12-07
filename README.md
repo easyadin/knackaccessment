@@ -3,9 +3,9 @@ Clone the app
 
 ### git clone https://github.com/easyadin/knackaccessment.git
 
-# Install dependencie
+# Install dependencies
 
-Navigate to project directory then
+Navigate to project directory then run
 
 ### npm i
 
