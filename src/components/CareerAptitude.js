@@ -47,8 +47,8 @@ function CareeAptitude() {
               data={data}
               startAngle={180}
               endAngle={0}
-              innerRadius={50}
-              outerRadius={100}
+              innerRadius={30}
+              outerRadius={95}
               fill="#8884d8"
               paddingAngle={5}
               stroke="none"
