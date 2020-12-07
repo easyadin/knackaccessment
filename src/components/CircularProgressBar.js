@@ -15,7 +15,7 @@ function CircularProgressBar(props) {
   const kframe = keyframes`0% {stroke-dashoffset: ${dashArray}} 100% {stroke-dashoffset: ${dashOffset}}`;
   const animation = () =>
     css`
-      ${kframe} ${Math.floor(Math.random() * Math.floor(4))}s ease-out
+      ${kframe} ${Math.floor(Math.random() * Math.floor(6))}s ease-out
     `;
   const AnimateCircle = styled.circle`
     stroke-dasharray: ${dashArray};
